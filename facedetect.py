@@ -81,12 +81,3 @@ cv2.destroyAllWindows()
 
 
 
-
-
-
-
-
-
-
-
-#         run_with_matplotlib()
